@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html;charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="renderer" content="webkit">
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1, user-scalable=no" name="viewport">
+<title>SZQ</title>
+<link rel="stylesheet" type="text/css" href="static/css/public/reset.css">
+<link rel="stylesheet" type="text/css" href="static/css/app/index.css">
+</head>
+<body>
+		<div class="g-hd clearfix">
+			<a href="#" class='m-company'>
+				<div class="m-logo">
+					<img src="static/images/logo.png">
+				</div>
+				<div class="m-title">
+					<h1 class="u-title-1">
+						南京思之原自动化科技有限公司
+					</h1>
+					<p class="u-title-2">
+						科学发展 理性经营 精心制作 追求最佳
+					</p>
+				</div>
+			</a>
+			<div class='m-wx'>
+				<img src="static/images/weixin.png" class="fl">
+				<div class='m-hotline'>
+					<p>客户热线服务</p>
+					<img class='u-phone' src='static/images/phone.png'/>
+				</div>
+			</div>
+			<div class="m-lang">
+				<a class="m-lang-type" style="margin-right: 5px;">
+					<img src="static/images/china.png">
+					<span>中文</span>
+				</a>
+				<a class="m-lang-type">
+					<img src="static/images/america.png">
+					<span>ENGLISH</span>
+				</a>
+			</div>
+		</div>
+		<div class="g-nav">
+			<div class="m-nav">
+			<!-- 导航模板 -->
+			<script id="nav_templ" type="text/html">
+				<li><a href="#">{{navLink}}</a></li>
+			</script>
+			<ul class='m-list clearfix' id='nav_container'></ul>
+
+			</div>
+		</div>
+		<div class='g-bar'>
+			<div class='m-slide-1'>
+				<a href="#">
+				</a>
+			</div>
+			<div class='m-slide-2'>
+				<a href="#"></a>
+			</div>
+			<div class="m-bar-container">
+				<div class="m-bar-entry">
+					<h1>南京思之泉自动化科技有限公司</h1>
+					<h2>为客户创造一流的实验室及环境</h2>
+					<p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+					<div class='m-entry-btn'>
+						<a href="javascript:void(0)" class='u-entry-btn'>了解更多</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="g-tab">
+		<!-- tab模板 -->
+			<script id="tab_templ" type="text/html">
+				<li>
+					<a href="#" class="{{mTabEClass}}">
+						<img src="{{imgUrl}}">
+						<div class="{{uTabEryClass}}">
+							{{tabContent}}
+						</div>
+					</a>
+				</li>
+			</script>
+			<ul class="m-tab-box clearfix" id='tab_container'></ul>
+
+		</div>
+
+		<div class="g-main">
+		<img class= 'lazy' data-original="/static/images/introduce.png" width="100%" height="100%">
+		<a href="javascript:void(0)" class='m-container'>
+			<div class='m-profile'>
+				<h1>公司介绍</h1>
+				<h2>Company profile</h2>
+				<p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+			</div>
+		</a>
+		</div>
+		<div class="g-body">
+		<div class="m-use">
+		<div class='m-title clearfix'>
+			<p class='u-title-1'>应用领域</p>
+			<p class='u-title-2'>APPLICATIONS</p>
+			<a href="javascript:void(0)">更多>></a>
+		</div>
+		<!-- 应用案例模板 -->
+		<script id="use_templ" type="text/html">
+				<a class='{{mUseClass}}' href="#">
+					<img class='lazy fl' data-original="{{imgUrl}}" width="{{width}}" height="{{height}}">
+					<div class='m-list-bt'>
+						<p>{{useContent}}</p>
+						<span class='u-btn'>
+							更多>>
+						</span>
+					</div>
+				</a>
+		</script>
+		<div class="m-main" id='use_container'></div>
+
+		</div>
+		<div class="m-case-container">
+		<div class="m-case">
+			<div class='m-title case-title clearfix'>
+				<p class='u-title-1'>经典案例</p>
+				<p class='u-title-2'>SHOWCASE</p>
+				<a href="javascript:void(0)">更多>></a>
+			</div>
+			<div class="m-swiper-slide clearfix">
+				<!-- 案例模板 -->
+				<script type="text/html" id='slide1_templ'>
+					<a href="#" class="m-item">
+						<img class='lazy' data-original='{{imgUrl}}' width="{{width}}" height="{{height}}" alt="">
+						<p>{{slideContent}}</p>
+					</a>
+				</script>
+				<div class='m-slide-item m-slide-item1' id='slide1_container'></div>
+				
+				<!-- 案例模板 -->
+				<script type="text/html" id='slide2_templ'>
+					<a href="#" class="m-item">
+						<img src="{{imgUrl}}" width="{{width}}" height="{{height}}" alt="">
+						<p>{{slideContent}}</p>
+					</a>
+				</script>
+				<div class='m-slide-item m-slide-item2' id='slide2_container'></div>
+
+				<!-- 案例模板 -->
+				<script type="text/html" id='slide3_templ'>
+					<a href="#" class="m-item">
+						<img src="{{imgUrl}}" width="{{width}}" height="{{height}}" alt="">
+						<p>{{slideContent}}</p>
+					</a>
+				</script>
+
+				<div class='m-slide-item m-slide-item2' id='slide3_container'>
+			</div>
+			</div>
+			<div class='m-foot'>
+					<a class='u-pt z-sel' data-ptn='0'></a>
+					<a class='u-pt' data-ptn='1'></a>
+					<a class='u-pt' data-ptn='2'></a>
+			</div>
+			<span onselectstart="return false;" class="u-arrow pre" id='case_pre' disable='disable'><</span>
+			<span onselectstart="return false;" class="u-arrow next" id='case_next' disable='disable'>></span>
+		</div>
+		
+	</div>
+	<div class="m-team-container">
+			<div class="m-team">
+				<div class="u-title">
+					<p>设计团队</p>
+					<span>design team</span>
+				</div>
+				<div class="m-content">
+					<!-- 设计团队模板 -->
+					<script type="text/html" id='team_templ'>
+						{{if imgUrl}}
+						<li class='{{teamClass}}'><a href="javascript:void(0)"><img alt="" class='{{imgClass}}' data-original='{{imgUrl}}' width="{{width}}" height="{{height}}">
+						</a></li>
+						{{else}}
+						<li class='{{teamClass}}'><a href="javascript:void(0)"><img alt="" class='{{imgClass}}' src='{{srcUrl}}' width="{{width}}" height="{{height}}">
+						</a></li>
+						{{/if}}
+					</script>
+					<ul class="m-list clearfix" id='team_container'></ul>
+
+				</div>
+				<span onselectstart="return false;" class="u-arrow pre" id='team_pre'><</span>
+				<span onselectstart="return false;" class="u-arrow next" id='team_next'>></span>
+				<div class='m-detail'>
+						<p class="u-person">主设计师:<span class='u-name'>Oriol Pijuan</span></p>
+						<p class='u-data'>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+						XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+				</div>
+			</div>
+		</div>
+		<div class="m-news-container">
+			<div class="m-news">
+				<div class='m-title clearfix'>
+					<p class='u-title-1'>新闻动态</p>
+					<p class='u-title-2'>NEWS</p>
+					<p class='u-title-bar'></p>
+					<a href="javascript:void(0)">更多>></a>
+				</div>
+				<!-- 新闻模板 -->
+				<script type="text/html" id="news_templ">
+					<a class="m-item">
+						<img class="lazy" width='{{width}}' height="{{height}}" data-original='{{imgUrl}}'>
+						<div class='m-text-ctr'>
+							<p>{{newsContent1}}</p>
+							<span>{{newsContent2}}</span>
+							<p class='u-foot'>{{newsContent3}}</p>
+						</div>
+					</a>
+				</script>
+				<div class="m-content" id='news_container'></div>
+
+			</div>
+		</div>
+	<div class="g-ft">
+		<div class="m-bg"></div>
+		<div class="m-ft-1">
+			<div class="m-hd">
+				<p class="u-title">
+					联系我们
+				</p>
+				<p class='u-title-1'>Contact us</p>
+			</div>
+			<div class="m-content clearfix">
+				<form action='#' method="post" class='m-form'>
+					<div class='u-ipt'>
+						<span>你的姓名:</span>
+						<input type="text">
+					</div>
+					<div class='u-ipt'>
+						<span>你的联系电话:</span>
+						<input type="text">
+					</div>
+					<div class='u-ipt'>
+					    <span>你的邮箱:</span>
+						<input type="text">
+					</div>
+					<div class="u-area-ipt">
+					<span>详情需求描述:</span>
+					<textarea class='u-ipt u-tarea'></textarea>
+					</div>
+					<a class='u-btn'>提交</a>
+				</form>
+				<div class="m-side">
+					<img class='lazy' src='/static/images/grey.gif' data-original='/static/images/ft-side.png' width="454" height="300">
+				</div>
+			</div>
+		</div>
+		<div class="m-ft-2">
+			<div class="m-container">
+			<script type="text/html" id='ftnav_templ'>
+				<li><a href="">{{navLink}}</a></li>
+			</script>
+			<ul class='m-list clearfix' id='ftnav_container'></ul>
+			<div class="m-content">
+				<p>Copyright @ 南京思之泉自动化科技有限公司 版权所有</p>
+				<p>苏ICP备110004948号-1信息产业部备案管理系统:www.miitbeian.gov.cn</p>
+			</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	<script src='static/js/lib/require.js'></script>
+	<script >
+		require(['common'],function(Common){
+			console.log("%c树莓大二P端"," text-shadow: 0 1px 0 #ccc,0 2px 0 #c9c9c9,0 3px 0 #bbb,0 4px 0 #b9b9b9,0 5px 0 #aaa,0 6px 1px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1),0 1px 3px rgba(0,0,0,.3),0 3px 5px rgba(0,0,0,.2),0 5px 10px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.2),0 20px 20px rgba(0,0,0,.15);font-size:5em")
+			console.log('github地址:https://github.com/lyyh/zx-szq')
+		})
+	</script>
+</body>
+</html>

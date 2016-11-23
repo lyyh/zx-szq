@@ -1,0 +1,39 @@
+{
+  "name": "zhaoxin-szq",
+  "version": "1.0.0",
+  "description": "自动化构建工具: gulp     模块化管理: requirejs     js库: jquery(1.12)   前端模板引擎: handlebars   脚本语法: es6   样式语法: less",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jquery": "^1.9.0",
+    "morgan": "^1.7.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "fis-parser-babel-5.x": "^1.4.0",
+    "fis3-hook-amd": "^0.1.18",
+    "fis3-postpackager-loader": "^1.5.3",
+    "fis3-preprocessor-autoprefixer": "0.1.0",
+    "fis3-preprocessor-js-require-file": "^0.1.0",
+    "postcss": "^5.1.2",
+    "fis-parser-less-2.x": "^0.1.4",
+    "fis3-hook-commonjs": "^0.1.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyyh/zhaoxin-szq.git"
+  },
+  "keywords": [],
+  "author": "liuyh <374659635@qq.com> (http://blog.liuyanhao.cn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyyh/zhaoxin-szq/issues"
+  },
+  "homepage": "https://github.com/lyyh/zhaoxin-szq#readme"
+}

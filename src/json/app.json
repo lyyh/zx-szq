@@ -1,0 +1,101 @@
+{
+	"nav":[
+		"{\"navLink\":\"首页\"}",
+		"{\"navLink\":\"公司概况\"}",
+		"{\"navLink\":\"新闻中心\"}",
+		"{\"navLink\":\"产品展示\"}",
+		"{\"navLink\":\"经典案例\"}",
+		"{\"navLink\":\"售后服务\"}",
+		"{\"navLink\":\"在线留言\"}",
+		"{\"navLink\":\"联系我们\"}"
+	],
+	"tab":[
+		"{\"mTabEClass\":\"m-tab-entry tab-entry-1\",\"imgUrl\":\"/src/images/entry-2.jpg\",\"uTabEryClass\":\"u-tab-entry\",\"tabContent\":\"微生物安全实验室\"}",
+		"{\"mTabEClass\":\"m-tab-entry tab-entry-1\",\"imgUrl\":\"/src/images/entry-2.jpg\",\"uTabEryClass\":\"u-tab-entry\",\"tabContent\":\"微生物安全实验室\"}",
+		"{\"mTabEClass\":\"m-tab-entry tab-entry-1\",\"imgUrl\":\"/src/images/entry-2.jpg\",\"uTabEryClass\":\"u-tab-entry\",\"tabContent\":\"微生物安全实验室\"}",
+		"{\"mTabEClass\":\"m-tab-entry tab-entry-1\",\"imgUrl\":\"/src/images/entry-2.jpg\",\"uTabEryClass\":\"u-tab-entry\",\"tabContent\":\"微生物安全实验室\"}",
+		"{\"mTabEClass\":\"m-tab-entry tab-entry-1\",\"imgUrl\":\"/src/images/entry-2.jpg\",\"uTabEryClass\":\"u-tab-entry\",\"tabContent\":\"微生物安全实验室\"}",
+		"{\"mTabEClass\":\"m-tab-entry tab-entry-1\",\"imgUrl\":\"/src/images/entry-2.jpg\",\"uTabEryClass\":\"u-tab-entry\",\"tabContent\":\"微生物安全实验室\"}"
+	],
+	"use":[
+		"{\"mUseClass\":\"m-item\",\"imgUrl\":\"images/app-111.png\",\"width\":\"294\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+		"{\"mUseClass\":\"m-item m-item-1\",\"imgUrl\":\"images/app-2.png\",\"width\":\"489\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+		"{\"mUseClass\":\"m-item fr\",\"imgUrl\":\"images/app-111.png\",\"width\":\"294\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+			"{\"mUseClass\":\"m-item\",\"imgUrl\":\"images/app-111.png\",\"width\":\"294\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+		"{\"mUseClass\":\"m-item m-item-1\",\"imgUrl\":\"images/app-2.png\",\"width\":\"489\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+		"{\"mUseClass\":\"m-item fr\",\"imgUrl\":\"images/app-111.png\",\"width\":\"294\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+			"{\"mUseClass\":\"m-item\",\"imgUrl\":\"images/app-111.png\",\"width\":\"294\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+		"{\"mUseClass\":\"m-item m-item-1\",\"imgUrl\":\"images/app-2.png\",\"width\":\"489\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}",
+		"{\"mUseClass\":\"m-item fr\",\"imgUrl\":\"images/app-111.png\",\"width\":\"294\",\"height\":\"199\",\"useContent\":\"恒温恒湿实验室\"}"
+	],
+	"slide1":[
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",	
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",	
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}",	
+		"{\"imgUrl\":\"images/case-1.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"宁波综合研化学\"}"
+	],
+	"slide2":[
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",	
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",	
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}",	
+		"{\"imgUrl\":\"images/case-2.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"叶氏化工\"}"
+	],
+	"slide3":[
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",	
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",	
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}",	
+		"{\"imgUrl\":\"images/case-3.png\",\"width\":\"154\",\"height\":\"62\",\"slideContent\":\"上海紫荆花\"}"
+	],
+	"team":[
+		"{\"imgUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"imgUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"imgUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item z-item-sel\",\"imgClass\":\"u-item lazy\"}",
+		"{\"imgUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"imgUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"srcUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"srcUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"srcUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item z-item-sel\",\"imgClass\":\"u-item\"}",
+		"{\"srcUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}",
+		"{\"srcUrl\":\"images/design-1.png\",\"width\":\"180\",\"height\":\"151\",\"teamClass\":\"m-item\",\"imgClass\":\"u-item lazy\"}"
+	],
+	"news":[
+		"{\"imgUrl\":\"images/new-1.png\",\"width\":\"172\",\"height\":\"136\",\"newsContent1\":\"2014公司发展良好\",\"newsContent2\":\"2014公司发展良好2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良\",\"newsContent3\":\"MORE+\"}",
+		"{\"imgUrl\":\"images/new-1.png\",\"width\":\"172\",\"height\":\"136\",\"newsContent1\":\"2014公司发展良好\",\"newsContent2\":\"2014公司发展良好2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良2014公司发展良\",\"newsContent3\":\"MORE+\"}"
+	],
+	"ftnav":[
+		"{\"navLink\":\"站内导航\"}",
+		"{\"navLink\":\"首页\"}",
+		"{\"navLink\":\"公司概况\"}",
+		"{\"navLink\":\"新闻中心\"}",
+		"{\"navLink\":\"产品展示\"}",
+		"{\"navLink\":\"案例展示\"}",
+		"{\"navLink\":\"在线留言\"}",
+		"{\"navLink\":\"在线客服\"}",
+		"{\"navLink\":\"联系我们\"}",
+		"{\"navLink\":\"售后服务\"}"
+	]
+}

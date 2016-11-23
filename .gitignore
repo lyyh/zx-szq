@@ -1,0 +1,23 @@
+## 忽略文件夹
+node_modules/
+dist/
+rev/
+test/
+szq/
+app/
+## 忽略日志文件
+npm-debug.log
+
+## 忽略文件
+*.class
+
+# Package Files #
+*.war
+*.ear
+*.iml
+*.idea/
+
+# 忽略文件
+
+.DS_Store
+*.log
